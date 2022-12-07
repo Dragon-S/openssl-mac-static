@@ -1,2 +1,2 @@
 # openssl-mac-static
-Build OpenSSL for iOS
+Build OpenSSL for mac
